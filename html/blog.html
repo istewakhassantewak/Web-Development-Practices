@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="#" method="post">
+      <h1 style="text-align: center;">Sign Up</h1>
+ <hr>
+ <label for="user">Name : </label>
+ <input type="text" id="user" name="user" placeholder="Enter your name" required>
+
+<br>
+<label for="Email">Email : </label >
+<input type="text" id="Email" name="Email" placeholder="Enter your Email" required>
+<br>
+<label for="password">Password :</label>
+<input type="text" id="password" name="password" placeholder="Enter your password" required>
+<br>
+<label for="phone">Phone :</label>
+<select name="code" >
+    <option value="+880">+880</option>
+    <option value="+99">+99</option>
+    <option value="+122">+122</option>
+</select>
+<input type="number" id="phone" name="phone" placeholder="Enter your phone number" required>
+<br>
+Gender :
+<input type="radio" name="gender" id="gen1">
+<label for="gen">Male</label>
+<input type="radio" name="gender" id="gen2">
+<label for="gen">Female</label>
+
+<br>
+<label for="dob">Date of Birth :</label>
+<input type="date" id="dob" name="dob">
+<br>
+<label for="file">Choose Photo : </label>
+<input type="file" id="file" name="file">
+<br>
+<label for="color">Colour : </label>
+<input type="color" id="color" name="color">
+<br>
+<label for="dep">Department :</label>
+<input list="dep">
+<datalist id="dep">
+    
+    <option value="SWE">SWE</option>
+    <option value="CSE">CSE</option>
+    <option value="EEE">EEE</option>
+</datalist>
+<br>
+<textarea name="com" cols="30" rows="10" placeholder="Enter your Comment"></textarea>
+<br>
+<input type="submit" value="submit">
+<input type="reset" value="reset">
+    </form>
+</body>
+</html>
