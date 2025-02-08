@@ -1,0 +1,36 @@
+.cal{
+text-align: center;
+}
+.cal .caltit{
+text-align: center;
+font-weight: bold;
+font-size: 50px;
+}
+.cal .text .inp{
+    box-sizing: border-box;
+    width: 400px;
+    height: 100px;
+    direction: rtl;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+.butto{
+
+}
+.button{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    width: 90px;
+    height: 90px;
+    line-height: 50px;
+   font-weight: bold;
+   font-size: 20px;
+   font-weight: bold;
+    padding: 1px;
+
+}
+.button:hover{
+    background-color: red;
+}

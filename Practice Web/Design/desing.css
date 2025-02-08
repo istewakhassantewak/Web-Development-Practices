@@ -1,0 +1,14 @@
+.img{
+    width: 100%;
+}
+.d{
+width: 50%;
+height: 50%;
+background-color: black;
+box-sizing: border-box;
+box-shadow: 1px 2px 4px white;
+}
+.car-body{
+    color: aliceblue;
+    padding: 5px;
+}

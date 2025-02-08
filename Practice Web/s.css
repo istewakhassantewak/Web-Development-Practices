@@ -1,0 +1,69 @@
+.q{
+  color: rgb(28, 211, 58);
+  margin-top: auto;
+  text-align: center;
+  background-color: black;
+}
+body{
+    background-color: rgb(28, 211, 58);
+}
+.div1{
+    text-align: center;
+    background-color: rgba(55, 139, 44, 0.589);
+}
+.t2{
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+}
+.t3 a{
+font-size: 40px; 
+color: rgb(56, 66, 62);
+margin: auto;
+text-align: justify;
+}
+.q1{
+    background-color: rgba(160, 231, 150, 0.589);
+    color: rgb(43, 42, 46);
+
+}
+.p4 font {
+    color: rgb(46, 43, 43);
+    text-align: justify;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.p4 b{
+    font-weight: 1000000;
+    color: rgb(5, 4, 4);
+}
+.div1 img:hover{
+
+  padding: 10px 20px;
+}
+.table{
+    background-color: rgb(70, 64, 64);
+}
+.table tr{
+    color: rgb(51, 224, 65);
+}
+.i7{
+    background-color: rgb(154, 183, 209);
+    margin: 1px;
+}
+.m1{
+    border: 10px;
+    text-align: justify;
+
+}
+.l{
+    background-color: rgb(10, 4, 4);
+ color: aliceblue;
+    display: inline;
+
+}
+.l:hover{
+  color:  red;
+  background-color: blanchedalmond;
+  
+}
